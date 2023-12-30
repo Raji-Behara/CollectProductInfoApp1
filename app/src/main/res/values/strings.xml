@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CollectProductInfoApp</string>
+    <string name="productname">Enter Product Name</string>
+</resources>
